@@ -1,167 +1,155 @@
 <div align="center">
 
-<img src="./profile.jpg" width="90" height="90" style="border-radius:50%; object-fit:cover;">
+<table width="720">
+<tr>
+<td>
 
-# GAURAV CHANDEL
+<div align="center">
 
-### `FULL STACK DEVELOPER`
+# Gaurav Singh Chandel
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Angular+%2B+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Building+Real+World+Applications;DSA+%7C+System+Design+%7C+AI%2FGenAI;Always+Learning.+Always+Building." />
+### Software Engineer / Full Stack Developer
+
+`C#` `ASP.NET` `Angular` `SQL Server` `REST APIs`
 
 <br>
 
 <a href="https://github.com/Gaurav-404">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-&nbsp;
 <a href="mailto:gauravchandel2025@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 <br>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="800">
-
-<div align="center">
-
-### `DEVELOPER PROFILE`
-
-</div>
-
-<br>
-
-I'm a **Full Stack Developer** focused on building practical,
-scalable and user-friendly web applications.
-
-I work mainly with **Angular, TypeScript, C#, ASP.NET Core,
-Web API and SQL Server**, while continuously improving my
-problem-solving and system design skills.
-
-<br>
-
-<div align="center">
-
-### `TECH STACK`
-
-<table>
-<tr>
-<td align="center" width="200">
-
-**FRONTEND**
-
-Angular  
-TypeScript  
-HTML / CSS  
-Bootstrap
-
-</td>
-
-<td align="center" width="200">
-
-**BACKEND**
-
-C#  
-ASP.NET Core  
-Web API  
-JWT
-
-</td>
-
-<td align="center" width="200">
-
-**DATABASE**
-
-SQL Server  
-Entity Framework Core  
-LINQ
-
-</td>
-
-<td align="center" width="200">
-
-**TOOLS**
-
-Git  
-GitHub  
-Visual Studio  
-VS Code
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap,cs,dotnet,git,github,vscode,visualstudio">
-
-<br><br>
 
 ---
 
-### `WHAT I'M BUILDING`
+## About
+
+Software Engineer with **9 months of experience in .NET Full Stack Development**, 
+building and maintaining web applications using **C#, ASP.NET, Angular, SQL Server 
+and REST APIs**.
+
+Experienced in backend services, responsive interfaces, database integration,
+debugging and application enhancements.
+
+Strong foundation in **OOP, SDLC, Git and full stack development** with a focus
+on writing clean, efficient and maintainable code.
+
+<br>
+
+<div align="center">
+
+`150+ LeetCode Problems Solved`
+
+</div>
+
+---
+
+## Experience
+
+### Software Engineer — LTM
+
+**Dec 2025 – Present**
+
+Working on application migration and development activities including:
+
+- Analyzing requirements and supporting migration from legacy environments
+- Implementing backend services and database updates
+- Configuration changes for new infrastructure
+- Testing, debugging and application validation
+- Troubleshooting issues with cross-functional teams
+- Supporting application performance and reliability
+
+---
+
+## Projects
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🚀 TRAVELGO
+### 🌾 AgroLink
 
-**Full Stack Travel Application**
+**.NET Full Stack**
 
-Angular • TypeScript • Bootstrap  
-C# • ASP.NET Core • Web API  
-SQL Server • EF Core
+`Angular`  
+`ASP.NET`  
+`C#`  
+`SQL`
 
-**Key Areas**
+Digital marketplace connecting **farmers and sellers**.
 
-- Authentication
-- JWT Authorization
-- Travel / Destination Management
-- REST API Integration
-- Database Integration
-
-<br>
-
-<a href="https://github.com/Gaurav-404">
-<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-00FF9C?style=flat-square&logo=github&logoColor=000000">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 AGROLINK
-
-**Agriculture-focused Full Stack Application**
-
-Angular • TypeScript • Bootstrap  
-C# • ASP.NET Core • Web API  
-SQL Server • EF Core
-
-**Key Areas**
-
-- User Management
-- Authentication
-- API Architecture
-- Database Integration
-- Agriculture-oriented Services
+• Agricultural product listing  
+• Crop-based product purchasing  
+• Database management  
+• Support chatbot  
+• REST-based application architecture
 
 <br>
 
 <a href="https://github.com/Gaurav-404/AgroLink">
-<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-00FF9C?style=flat-square&logo=github&logoColor=000000">
+View Project →
 </a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### ✈️ TravelGo
+
+**Full Stack Web App**
+
+`Angular`  
+`TypeScript`  
+`ASP.NET Core`  
+`C#`  
+`SQL Server`
+
+Travel-focused web application built with
+Angular frontend and .NET backend.
+
+• Authentication  
+• JWT authorization  
+• Travel management  
+• REST API integration  
+• Database integration
+
+<br>
+
+<a href="https://github.com/Gaurav-404">
+View on GitHub →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛡️ ProtectU
+
+**Women Safety App**
+
+`Flutter`  
+`Firebase`  
+`Google Maps`  
+`Twilio`
+
+Cross-platform mobile application focused
+on women's safety.
+
+• Real-time location sharing  
+• Emergency SOS  
+• SMS & email alerts  
+• Trusted contacts  
+• Firebase authentication  
+• Live location updates
 
 </td>
 
@@ -170,59 +158,163 @@ SQL Server • EF Core
 
 ---
 
-### `PROBLEM SOLVING`
+## Technical Skills
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+**Languages**
+
+C#  
+Java  
+C  
+C++  
+Dart  
+SQL
+
+</td>
+
+<td width="25%" valign="top">
+
+**Web**
+
+HTML5  
+CSS3  
+JavaScript  
+Angular  
+ASP.NET
+
+</td>
+
+<td width="25%" valign="top">
+
+**Frameworks**
+
+.NET  
+ASP.NET  
+Flutter
+
+</td>
+
+<td width="25%" valign="top">
+
+**Database & Tools**
+
+SQL Server  
+MySQL  
+Git  
+REST APIs  
+OOP  
+SDLC
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-**C#**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,css,js,flutter,mysql,git,github">
 
-`Arrays` · `Strings` · `Hashing` · `Two Pointers`  
-`Sliding Window` · `Binary Search` · `Stack / Queue`  
-`Linked List` · `Trees` · `Recursion` · `Dynamic Programming`
+</div>
+
+---
+
+## Problem Solving
+
+<div align="center">
+
+### LeetCode
+
+**150+ Problems Solved**
+
+`Arrays` `Strings` `Hashing` `Two Pointers`  
+`Sliding Window` `Binary Search` `Stack` `Queue`  
+`Linked List` `Trees` `Recursion` `Dynamic Programming`
 
 <br>
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
 </a>
 
 </div>
 
 ---
 
-### `CURRENTLY LEARNING`
+## Certifications & Training
 
-<table>
-<tr>
-<td align="center">⚡<br><b>Advanced Angular</b><br>Architecture • RxJS • Performance</td>
-<td align="center">⚙️<br><b>Advanced .NET</b><br>APIs • Architecture • Security</td>
-<td align="center">🏗️<br><b>System Design</b><br>Scalable Applications</td>
-</tr>
-
-<tr>
-<td align="center">🤖<br><b>AI / GenAI</b><br>LLMs • AI Applications</td>
-<td align="center">☁️<br><b>Cloud</b><br>Deployment • DevOps</td>
-<td align="center">🧠<br><b>DSA</b><br>Problem Solving</td>
-</tr>
-</table>
+- **3-Month .NET Full Stack Development Training** — LTM
+- **Android Application Development** — Internshala
+- **Python Programming** — Great Learning
+- **3-Month Web Development Internship** — Yhills
 
 ---
 
-### `GITHUB ACTIVITY`
+## Education
 
-<br>
+**Master of Computer Application (MCA)**  
+Pranveer Singh Institute of Technology — **June 2025**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-404&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&rank_icon=github" width="48%">
+**Bachelor of Computer Application (BCA)**  
+Rama University — **March 2022**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-404&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="48%">
+---
+
+## Currently Exploring
+
+<div align="center">
+
+`Advanced Angular` &nbsp; `Advanced .NET` &nbsp; `System Design`
+
+`AI / GenAI` &nbsp; `Cloud & Deployment` &nbsp; `DSA`
+
+</div>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-404&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" width="48%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-404&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="48%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-404&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-404&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+
+</div>
 
 ---
 
-### `DEVELOPER MINDSET`
+<div align="center">
 
-```text
-UNDERSTAND  →  DESIGN  →  BUILD  →  TEST  →  IMPROVE
+### Let's Build Something Great
+
+<a href="mailto:gauravchandel2025@gmail.com">
+<img src="https://img.shields.io/badge/gauravchandel2025%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://github.com/Gaurav-404">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="https://leetcode.com/">LeetCode</a>
+
+<br><br>
+
+`Team Player` • `Problem Solver` • `Detail Oriented` • `Proactive`
+
+</div>
+
+</td>
+</tr>
+</table>
