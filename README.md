@@ -1,61 +1,74 @@
 <div align="center">
 
-<img src="./profile.jpg" width="90" height="90" style="border-radius:50%;" alt="Gaurav Chandel"/>
+<img src="./profile.jpg" width="92" height="92" style="border-radius:50%;object-fit:cover;" alt="Gaurav Chandel"/>
 
-<br/>
+<br><br>
 
-# GAURAV CHANDEL
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=GAURAV+CHANDEL;FULL+STACK+DEVELOPER;ANGULAR+%2B+.NET+%2B+C%23;BUILDING+THE+NEXT+VERSION+OF+MYSELF" alt="Typing"/>
 
-### `FULL STACK .NET × ANGULAR`
+<br>
 
-**I build software, solve problems, and keep learning.**
+### `SOFTWARE ENGINEER · PROBLEM SOLVER · BUILDER`
 
-<br/>
+<br>
 
-[ LinkedIn ](https://www.linkedin.com/in/gaurav-chandel-b90602234/)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[ GitHub ](https://github.com/Gaurav-404)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[ Email ](mailto:gauravchandel2025@gmail.com)
+<a href="https://github.com/Gaurav-404">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
+&nbsp;
+<a href="mailto:gauravchandel2025@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-### `01 — DEVELOPER PROFILE`
+`01 / IDENTITY` &nbsp;&nbsp;&nbsp; `02 / WORK` &nbsp;&nbsp;&nbsp; `03 / STACK` &nbsp;&nbsp;&nbsp; `04 / EVOLUTION`
 
 </div>
+
+---
 
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="62%" valign="top">
 
-## Who am I?
+# 01 / IDENTITY
 
-I'm **Gaurav Chandel**, a Full Stack Developer focused on building modern web applications.
+## I build software with purpose.
 
-I work mainly with **Angular, C#, ASP.NET Core and SQL Server**.
+I'm **Gaurav Chandel**, a Full Stack Developer focused on building modern web applications using **Angular, C#, ASP.NET Core and SQL Server**.
 
-I enjoy taking an idea from:
+I enjoy understanding a problem, designing the solution and taking it all the way from **interface → API → database → working product**.
 
-`Concept → UI → API → Database → Working Product`
+I'm currently pushing beyond traditional full-stack development into **AI / Generative AI, System Design and Cloud**.
 
-I'm particularly interested in **clean architecture, problem solving, scalable applications and emerging AI technologies**.
+<br>
+
+> **Not just writing code.  
+> Understanding why the code exists.**
 
 </td>
 
-<td width="45%" valign="top">
+<td width="38%" valign="top">
 
-## Developer Identity
+### PROFILE
 
 ```text
 ROLE
 Full Stack Developer
 
-PRIMARY STACK
+CORE
 Angular + .NET
 
 LANGUAGE
@@ -64,10 +77,13 @@ C#
 DATABASE
 SQL Server
 
-MINDSET
-Build → Learn → Improve
+AUTH
+JWT
 
-CURRENT FOCUS
+PRACTICE
+C# + DSA
+
+EXPLORING
 AI / GenAI
 System Design
-DSA
+Cloud
