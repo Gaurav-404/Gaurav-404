@@ -1,85 +1,152 @@
 <div align="center">
 
-<img src="./profile.jpg" width="100" height="100" alt="Gaurav Chandel"/>
+<img src="./profile.jpg" width="95" height="95" alt="Gaurav Chandel"/>
 
-# Gaurav **Chandel**
+# GAURAV CHANDEL
 
 ### Full Stack .NET & Angular Developer
 
-Building modern web applications, solving problems, and learning every day.
+**Building useful software with clean code.**
 
 <p>
-<a href="https://github.com/Gaurav-404">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/Gaurav-404">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:gauravchandel2025@gmail.com">Email</a>
 </p>
 
 </div>
 
 ---
 
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
 ## About
 
-I'm a **Full Stack Developer** focused on building practical and scalable web applications.
+I'm a Full Stack Developer focused on building practical and user-friendly web applications.
 
-My main experience is with **Angular, C#, ASP.NET Core and SQL Server**. I enjoy working on both frontend and backend development and turning ideas into working products.
+My primary stack is **Angular, C#, ASP.NET Core and SQL Server**. I enjoy working across the complete development cycle — from designing frontend experiences to building APIs and working with databases.
 
-Currently, I'm expanding my knowledge in **AI/Generative AI, System Design and advanced .NET development**.
+I'm currently expanding my knowledge in **AI, Generative AI and System Design**.
+
+</td>
+
+<td width="35%" valign="top">
+
+## Currently
+
+**Building**
+
+Full Stack Applications
+
+**Learning**
+
+AI / GenAI  
+System Design
+
+**Practicing**
+
+C# + DSA
+
+**Focus**
+
+.NET + Angular
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## What I Work With
+# Technology
 
-| Frontend | Backend | Database | Tools |
-|:---:|:---:|:---:|:---:|
-| Angular | C# | SQL Server | Git |
-| TypeScript | .NET | Entity Framework | GitHub |
-| HTML | ASP.NET Core | LINQ | Visual Studio |
-| CSS | Web API | SQL | VS Code |
-| Bootstrap | JWT | | |
+<table>
+<tr>
 
-### Core Technologies
+<td width="25%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap,cs,dotnet,git,github,vscode,visualstudio"/>
-</p>
+### Frontend
+
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+
+</td>
+
+<td width="25%">
+
+### Backend
+
+- C#
+- .NET
+- ASP.NET Core
+- Web API
+- JWT
+
+</td>
+
+<td width="25%">
+
+### Database
+
+- SQL Server
+- Entity Framework
+- LINQ
+
+</td>
+
+<td width="25%">
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Selected Projects
+# Selected Work
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ✈️ TravelGo
+## ✈️ TravelGo
 
-**Full Stack Travel Application**
+### Full-Stack Travel Application
 
-A travel application built with Angular and ASP.NET Core with authentication, booking and destination management.
+A travel application built with Angular and ASP.NET Core.
 
-**Key Features**
+**What I worked with**
 
-- User authentication
-- JWT authorization
-- Travel & destination management
+`Angular`  
+`TypeScript`  
+`C#`  
+`ASP.NET Core`  
+`SQL Server`  
+`JWT`
+
+**Key areas**
+
+- Authentication
 - Booking management
-- REST API integration
-- Responsive interface
-
-**Built with**
-
-`Angular` `TypeScript` `C#`  
-`ASP.NET Core` `SQL Server` `JWT`
+- Destination management
+- REST APIs
+- Responsive UI
 
 **[View Repository →](YOUR_TRAVELGO_REPOSITORY_URL)**
 
@@ -87,25 +154,27 @@ A travel application built with Angular and ASP.NET Core with authentication, bo
 
 <td width="50%" valign="top">
 
-### 🌾 AgroLink
+## 🌾 AgroLink
 
-**Agriculture Web Application**
+### Agriculture Web Application
 
-A web application designed around agricultural users, services and information.
+A web application focused on providing useful functionality and services for agricultural users.
 
-**Key Features**
+**What I worked with**
+
+`Angular`  
+`TypeScript`  
+`C#`  
+`ASP.NET Core`  
+`SQL Server`
+
+**Key areas**
 
 - User management
-- Agriculture-focused functionality
-- Authentication
 - Data management
-- REST API integration
-- Responsive interface
-
-**Built with**
-
-`Angular` `TypeScript` `C#`  
-`ASP.NET Core` `SQL Server`
+- Authentication
+- REST APIs
+- Responsive UI
 
 **[View Repository →](https://github.com/Gaurav-404/AgroLink)**
 
@@ -118,82 +187,46 @@ A web application designed around agricultural users, services and information.
 
 # Problem Solving
 
-### DSA & LeetCode
+## DSA & LeetCode
 
-I practice **Data Structures & Algorithms using C#** to strengthen my problem-solving and coding skills.
+I use **C#** to practice Data Structures and Algorithms and improve my problem-solving skills.
 
-**Currently practicing**
-
-`Arrays` · `Strings` · `Hashing` · `Two Pointers`
-
-`Sliding Window` · `Binary Search` · `Linked Lists`
-
-`Trees` · `Dynamic Programming`
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-404&show_icons=true&hide_border=true&theme=default" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-404&layout=compact&hide_border=true&theme=default" height="160"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Gaurav-404&theme=default&hide_border=true"/>
-
-</div>
+| Topic | Focus |
+|---|---|
+| Arrays | Traversal, manipulation & optimization |
+| Strings | Searching & pattern problems |
+| Hashing | Frequency & lookup problems |
+| Two Pointers | Array & string optimization |
+| Sliding Window | Subarray & substring problems |
+| Binary Search | Efficient searching |
+| Linked Lists | Pointer manipulation |
+| Trees | Traversal & recursion |
+| Dynamic Programming | Optimization problems |
 
 ---
 
-# Currently Learning
-
-I'm continuously expanding my development skills.
-
-| Area | Focus |
-|:---|:---|
-| 🤖 AI / GenAI | AI-powered applications |
-| 🏗️ System Design | Scalable application architecture |
-| Angular | Advanced Angular concepts |
-| .NET | Advanced ASP.NET Core |
-| ☁️ Cloud | Deployment & cloud fundamentals |
-
----
-
-# Development Roadmap
+# Development Journey
 
 ```text
-HTML / CSS
-     │
-     ▼
-JavaScript / TypeScript
-     │
-     ▼
-Angular ────────────────┐
-                        │
-                        ▼
-                    Full Stack
-                        ▲
-                        │
-C# / .NET ──────────────┘
-     │
-     ▼
-ASP.NET Core
-     │
-     ▼
-REST APIs
-     │
-     ▼
-SQL Server
-     │
-     ▼
-Entity Framework
-     │
-     ▼
+Frontend
+Angular + TypeScript
+        │
+        ▼
+Backend
+C# + ASP.NET Core
+        │
+        ▼
+APIs
+REST + JWT
+        │
+        ▼
+Database
+SQL Server + EF Core
+        │
+        ▼
+Full Stack
+End-to-End Applications
+        │
+        ▼
+Next
 AI / GenAI + System Design
