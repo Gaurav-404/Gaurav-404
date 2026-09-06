@@ -2,19 +2,22 @@
 
 ### 💻 Full Stack .NET & Angular Developer
 
-I’m a developer focused on building **modern, scalable and user-friendly web applications** using Angular, ASP.NET Core, C#, and SQL Server.
+> Building modern web applications with **Angular, ASP.NET Core, C# and SQL Server**.
 
-I enjoy solving problems, learning new technologies, and turning ideas into real-world applications.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Gaurav-404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **Full Stack Web Applications**
-* 🌱 Currently learning **AI, Generative AI & System Design**
-* 💻 Strong interest in **Angular & .NET Development**
-* 🧩 Practicing **Data Structures & Algorithms using C#**
-* 🎯 Looking for opportunities as a **Full Stack / .NET Developer**
+I'm a passionate developer who enjoys building **full-stack applications**, solving programming problems, and continuously improving my development skills.
+
+* 🔭 Building full-stack web applications
+* 🌱 Learning **AI, Generative AI & System Design**
+* 🧩 Practicing **Data Structures & Algorithms with C#**
+* 💡 Interested in building clean and scalable applications
+* 🎯 Looking for opportunities in **.NET / Full Stack Development**
 
 ---
 
@@ -22,28 +25,21 @@ I enjoy solving problems, learning new technologies, and turning ideas into real
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap" />
+</p>
 
 ### Backend
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
 
-### Database
+### Database & Tools
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=sqlserver,git,github,visualstudio,vscode" />
+</p>
 
 ---
 
@@ -51,70 +47,142 @@ I enjoy solving problems, learning new technologies, and turning ideas into real
 
 ### ✈️ TravelGo
 
-A full-stack travel application built with Angular and .NET.
+**Full-stack travel application**
 
-**Tech:** Angular • ASP.NET Core • C# • SQL Server • JWT
+A travel-focused web application built with Angular and .NET.
 
-🔗 [View Project](https://github.com/Gaurav-404/TravelGo)
+**Tech Stack**
+
+`Angular` `TypeScript` `ASP.NET Core` `C#` `SQL Server` `JWT`
+
+🔗 **Repository:** [View Project](YOUR_TRAVELGO_REPOSITORY_URL)
 
 ---
 
 ### 🌾 AgroLink
 
-A web application focused on connecting agricultural users with useful services and functionality.
+**Agriculture-focused web application**
 
-**Tech:** Angular • .NET • C# • SQL Server
+A web application designed to provide useful functionality for the agricultural domain.
 
-🔗 [View Project](https://github.com/Gaurav-404/AgroLink)
+**Tech Stack**
+
+`Angular` `ASP.NET Core` `C#` `SQL Server`
+
+🔗 **Repository:** [View Project](https://github.com/Gaurav-404/AgroLink)
 
 ---
 
 ### 🧩 DSA & LeetCode
 
-A collection of my solutions for improving problem-solving and algorithmic thinking.
+A collection of my solutions for improving problem-solving and algorithmic thinking using C#.
+
+**Topics**
+
+`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Binary Search` `Linked List` `Trees` `Dynamic Programming`
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice programming problems to improve:
+
+* Data Structures
+* Algorithms
+* Time & Space Complexity
+* Problem Solving
+* Clean & Efficient Code
 
 **Language:** C#
 
-Topics include:
+---
 
-* Arrays
-* Strings
-* Hashing
-* Two Pointers
-* Sliding Window
-* Binary Search
-* Linked Lists
-* Trees
-* Dynamic Programming
+## 🌱 Currently Learning
+
+```text
+AI & Generative AI
+        ↓
+System Design
+        ↓
+Advanced Angular
+        ↓
+Advanced .NET
+        ↓
+Cloud & Deployment
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav-404\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-404&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-404&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-404\&layout=compact\&theme=tokyonight)
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gaurav-404&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 My Development Journey
+
+```text
+HTML / CSS
+    ↓
+JavaScript / TypeScript
+    ↓
+Angular
+    ↓
+C# / .NET
+    ↓
+ASP.NET Core Web API
+    ↓
+SQL Server / Entity Framework
+    ↓
+Full Stack Development
+    ↓
+AI / GenAI + System Design
+```
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Build production-ready full-stack applications
-* 🧠 Improve Data Structures & Algorithms
-* 🤖 Learn AI & Generative AI development
-* 🏗️ Improve System Design knowledge
-* 💼 Start my career as a Full Stack / .NET Developer
+* [x] Build full-stack applications
+* [x] Work with Angular & .NET
+* [x] Build REST APIs
+* [ ] Master Data Structures & Algorithms
+* [ ] Learn System Design
+* [ ] Build AI-powered applications
+* [ ] Deploy production-ready applications
+* [ ] Contribute to open-source projects
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+<p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📧 **Email:** Add your email here
+<a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
+
+<p align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-If you find my projects useful, feel free to ⭐ the repositories.
+**Building. Learning. Improving. 🚀**
+
+</p>
