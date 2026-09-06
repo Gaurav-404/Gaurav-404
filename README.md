@@ -1,79 +1,75 @@
 <div align="center">
 
-<img src="./profile.jpg" width="78" height="78" alt="Gaurav Chandel"/>
+<img src="./profile.jpg" width="82" height="82" alt="Gaurav Chandel"/>
 
-# GAURAV CHANDEL
+# Gaurav Chandel
 
-### Full Stack .NET & Angular Developer
+### `Full Stack Developer`
 
-I build clean, practical and scalable web applications.
+**Angular · .NET · C# · SQL Server**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:gauravchandel2025@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Gaurav-404">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-**ANGULAR** &nbsp; • &nbsp; **.NET** &nbsp; • &nbsp; **C#** &nbsp; • &nbsp; **SQL SERVER** &nbsp; • &nbsp; **REST APIs**
+> **I turn ideas into working software.**
 
 </div>
 
 ---
 
-## `about`
+## ✦ HELLO, I'M GAURAV
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 
-### Who I am
+I'm a **Full Stack Developer** who enjoys creating applications from the ground up.
 
-I'm a **Full Stack Developer** passionate about creating web applications that are simple to use and well structured internally.
+I work primarily with **Angular on the frontend** and **C# / ASP.NET Core on the backend**, with SQL Server handling the data layer.
 
-I enjoy working on both sides of the application — building interfaces with Angular and developing APIs and business logic with ASP.NET Core.
+I'm interested in writing clean code, understanding how systems work, and continuously improving through projects and problem solving.
 
-I'm also strengthening my **DSA, System Design and AI/GenAI** skills.
+### What I care about
+
+`Clean Code` · `Good UX` · `Scalable APIs` · `Problem Solving`
 
 </td>
 
-<td width="40%" valign="top">
+<td width="30%" valign="top">
 
-### Quick Info
+### NOW
 
-**Role**  
-Full Stack Developer
+🟢 Building
 
-**Primary Stack**  
-Angular + .NET
+**Full Stack Apps**
 
-**Language**  
-C#
+### LEARNING
 
-**Database**  
-SQL Server
+🤖 AI / GenAI
 
-**Currently Exploring**  
-AI / GenAI
+🏗️ System Design
 
-**Goal**  
-Build better software
+### PRACTICING
+
+🧠 DSA with C#
 
 </td>
 
@@ -82,52 +78,73 @@ Build better software
 
 ---
 
-# `skills`
+# ✦ MY TOOLBOX
 
-### Frontend
+<div align="center">
+
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap"/>
 
-`Angular` `TypeScript` `HTML5` `CSS3` `Bootstrap`
+<br/>
 
-### Backend
+`Angular` `TypeScript` `HTML` `CSS` `Bootstrap`
+
+<br/><br/>
+
+### BACKEND
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet"/>
 
-`C#` `.NET` `ASP.NET Core` `Web API` `JWT`
+<br/>
 
-### Database & Tools
+`C#` `.NET` `ASP.NET Core` `Web API`
+
+<br/><br/>
+
+### DATA & TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
 
+<br/>
+
 `SQL Server` `Entity Framework Core` `LINQ` `Git` `GitHub`
+
+</div>
 
 ---
 
-# `projects`
+# ✦ SELECTED WORK
+
+<br/>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## ✈️ TravelGo
+### 01 / TRAVEL
 
-**Travel Management Platform**
+# ✈️ TravelGo
 
-A full-stack travel application built using Angular and ASP.NET Core.
+**Full Stack Travel Platform**
 
-**Highlights**
+A complete travel application built with Angular and ASP.NET Core.
 
-- Authentication & authorization
-- JWT based security
-- Destination management
-- Booking management
-- User management
-- REST API integration
-- Responsive frontend
+<br/>
 
-**Stack**
+**FEATURES**
+
+🔐 Authentication  
+🎫 Booking Management  
+🌍 Destinations  
+👤 User Management  
+🔑 JWT Authorization  
+🔗 REST APIs
+
+<br/>
+
+**TECHNOLOGY**
 
 `Angular` `TypeScript`  
 `C#` `ASP.NET Core`  
@@ -136,29 +153,34 @@ A full-stack travel application built using Angular and ASP.NET Core.
 <br/>
 
 <a href="https://github.com/Gaurav-404">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge"/>
+<b>VIEW PROJECT →</b>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌾 AgroLink
+### 02 / AGRICULTURE
 
-**Agriculture Management Platform**
+# 🌾 AgroLink
 
-A full-stack application focused on agricultural users and services.
+**Agriculture Web Platform**
 
-**Highlights**
+A full-stack application focused on agricultural users, services and information.
 
-- User management
-- Authentication
-- Agriculture services
-- Data management
-- REST API integration
-- Responsive interface
+<br/>
 
-**Stack**
+**FEATURES**
+
+👨‍🌾 User Management  
+🌱 Agriculture Services  
+🔐 Authentication  
+📊 Data Management  
+🔗 REST APIs
+
+<br/>
+
+**TECHNOLOGY**
 
 `Angular` `TypeScript`  
 `C#` `ASP.NET Core`  
@@ -167,7 +189,7 @@ A full-stack application focused on agricultural users and services.
 <br/>
 
 <a href="https://github.com/Gaurav-404/AgroLink">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-16A34A?style=for-the-badge"/>
+<b>VIEW PROJECT →</b>
 </a>
 
 </td>
@@ -175,21 +197,115 @@ A full-stack application focused on agricultural users and services.
 </tr>
 </table>
 
+<br/>
+
 ---
 
-# `problem solving`
+# ✦ HOW I BUILD
 
-### DSA with C#
+<div align="center">
 
-I regularly solve programming problems to improve algorithmic thinking and write more efficient code.
+<table>
+<tr>
+
+<td align="center">
+
+### 01
+
+**UNDERSTAND**
+
+Understand the problem  
+before writing code.
+
+</td>
+
+<td align="center">
+
+### 02
+
+**DESIGN**
+
+Think about the  
+simplest solution.
+
+</td>
+
+<td align="center">
+
+### 03
+
+**BUILD**
+
+Write clean and  
+maintainable code.
+
+</td>
+
+<td align="center">
+
+### 04
+
+**IMPROVE**
+
+Test, learn, refactor  
+and improve.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# ✦ PROBLEM SOLVING
+
+### C# · DSA · LeetCode
+
+I practice Data Structures & Algorithms to become a better problem solver and write more efficient solutions.
+
+<div align="center">
+
+`ARRAYS`
+
+`STRINGS`
+
+`HASHING`
+
+`TWO POINTERS`
+
+`SLIDING WINDOW`
+
+`BINARY SEARCH`
+
+`LINKED LIST`
+
+`TREES`
+
+`DYNAMIC PROGRAMMING`
+
+</div>
+
+<br/>
 
 ```text
-Arrays              ████████████████████
-Strings             ██████████████████
-Hashing             █████████████████
-Two Pointers        █████████████████
-Sliding Window      ████████████████
-Binary Search       ███████████████
-Linked Lists        █████████████
-Trees               ███████████
-Dynamic Programming ████████
+Problem
+   │
+   ▼
+Understand
+   │
+   ▼
+Approach
+   │
+   ▼
+Optimize
+   │
+   ▼
+Code
+   │
+   ▼
+Test
+   │
+   ▼
+Improve
