@@ -1,111 +1,199 @@
 <div align="center">
 
-<table width="720">
+<table>
 <tr>
-<td>
+<td width="850">
 
 <div align="center">
 
-# Gaurav Singh Chandel
+# GAURAV CHANDEL
 
-### Software Engineer / Full Stack Developer
+### Full Stack Developer
 
-`C#` `ASP.NET` `Angular` `SQL Server` `REST APIs`
+`Building • Learning • Solving • Shipping`
 
 <br>
 
 <a href="https://github.com/Gaurav-404">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
 </a>
+
 <a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
+
 <a href="mailto:gauravchandel2025@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,css,js,sql,flutter,firebase,git,github">
+
+</div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-Software Engineer with **9 months of experience in .NET Full Stack Development**, 
-building and maintaining web applications using **C#, ASP.NET, Angular, SQL Server 
-and REST APIs**.
+I'm a **Software Engineer / Full Stack Developer** with **9 months of
+experience in .NET Full Stack Development**.
 
-Experienced in backend services, responsive interfaces, database integration,
-debugging and application enhancements.
+I build web applications using **C#, ASP.NET, Angular, SQL Server
+and REST APIs**, with experience in backend development, responsive
+UI development, database integration, debugging and application
+enhancements.
 
-Strong foundation in **OOP, SDLC, Git and full stack development** with a focus
-on writing clean, efficient and maintainable code.
-
-<br>
+I enjoy solving problems, learning new technologies and turning
+ideas into working applications.
 
 <div align="center">
 
-`150+ LeetCode Problems Solved`
+### `150+` LeetCode Problems Solved
 
 </div>
 
 ---
 
-## Experience
+## 🧩 What I Work With
 
-### Software Engineer — LTM
+<table>
+<tr>
 
-**Dec 2025 – Present**
+<td width="25%" align="center">
 
-Working on application migration and development activities including:
+### Frontend
 
-- Analyzing requirements and supporting migration from legacy environments
-- Implementing backend services and database updates
-- Configuration changes for new infrastructure
-- Testing, debugging and application validation
-- Troubleshooting issues with cross-functional teams
-- Supporting application performance and reliability
+Angular
+
+TypeScript
+
+JavaScript
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+</td>
+
+<td width="25%" align="center">
+
+### Backend
+
+C#
+
+.NET
+
+ASP.NET
+
+REST APIs
+
+JWT
+
+OOP
+
+</td>
+
+<td width="25%" align="center">
+
+### Database
+
+SQL Server
+
+MySQL
+
+Entity Framework
+
+LINQ
+
+Database Design
+
+</td>
+
+<td width="25%" align="center">
+
+### Tools
+
+Git
+
+GitHub
+
+Visual Studio
+
+VS Code
+
+SDLC
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Projects
+# 🚀 Projects
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 🌾 AgroLink
+<h3 align="center">🌾 AgroLink</h3>
 
-**.NET Full Stack**
+<p align="center">
+
+<strong>.NET Full Stack</strong>
+
+</p>
+
+Agriculture-focused marketplace connecting
+farmers and sellers.
+
+**Tech**
 
 `Angular`  
 `ASP.NET`  
 `C#`  
 `SQL`
 
-Digital marketplace connecting **farmers and sellers**.
+**Features**
 
-• Agricultural product listing  
-• Crop-based product purchasing  
-• Database management  
-• Support chatbot  
-• REST-based application architecture
+• Agricultural product marketplace  
+• Seller product listing  
+• Crop-based purchasing  
+• Database integration  
+• Support chatbot
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/Gaurav-404/AgroLink">
-View Project →
+
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github">
+
 </a>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### ✈️ TravelGo
+<h3 align="center">✈️ TravelGo</h3>
 
-**Full Stack Web App**
+<p align="center">
+
+<strong>Full Stack Web Application</strong>
+
+</p>
+
+Travel application developed using
+Angular and .NET technologies.
+
+**Tech**
 
 `Angular`  
 `TypeScript`  
@@ -113,8 +201,7 @@ View Project →
 `C#`  
 `SQL Server`
 
-Travel-focused web application built with
-Angular frontend and .NET backend.
+**Features**
 
 • Authentication  
 • JWT authorization  
@@ -124,32 +211,46 @@ Angular frontend and .NET backend.
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/Gaurav-404">
-View on GitHub →
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github">
+
 </a>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🛡️ ProtectU
+<h3 align="center">🛡️ ProtectU</h3>
 
-**Women Safety App**
+<p align="center">
+
+<strong>Women Safety Application</strong>
+
+</p>
+
+Cross-platform mobile application
+focused on women's safety.
+
+**Tech**
 
 `Flutter`  
 `Firebase`  
 `Google Maps`  
 `Twilio`
 
-Cross-platform mobile application focused
-on women's safety.
+**Features**
 
-• Real-time location sharing  
 • Emergency SOS  
-• SMS & email alerts  
+• Live location sharing  
 • Trusted contacts  
+• SMS & email alerts  
 • Firebase authentication  
-• Live location updates
+• Real-time database
 
 </td>
 
@@ -158,136 +259,173 @@ on women's safety.
 
 ---
 
-## Technical Skills
-
-<table>
-<tr>
-
-<td width="25%" valign="top">
-
-**Languages**
-
-C#  
-Java  
-C  
-C++  
-Dart  
-SQL
-
-</td>
-
-<td width="25%" valign="top">
-
-**Web**
-
-HTML5  
-CSS3  
-JavaScript  
-Angular  
-ASP.NET
-
-</td>
-
-<td width="25%" valign="top">
-
-**Frameworks**
-
-.NET  
-ASP.NET  
-Flutter
-
-</td>
-
-<td width="25%" valign="top">
-
-**Database & Tools**
-
-SQL Server  
-MySQL  
-Git  
-REST APIs  
-OOP  
-SDLC
-
-</td>
-
-</tr>
-</table>
-
-<br>
+# 💼 Professional Experience
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,css,js,flutter,mysql,git,github">
+### Software Engineer — LTM
+
+`Dec 2025 – Present`
 
 </div>
 
+Working with the team on application migration,
+development and validation activities.
+
+**Responsibilities**
+
+- Requirement analysis and application migration
+- Backend service implementation
+- Database updates and configuration changes
+- Testing and debugging
+- Application validation
+- Troubleshooting technical issues
+- Performance and reliability improvements
+- Cross-functional collaboration
+
 ---
 
-## Problem Solving
+# 🧠 Problem Solving
 
 <div align="center">
 
-### LeetCode
+<img src="https://img.shields.io/badge/C%23-Problem_Solving-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 
-**150+ Problems Solved**
+<br><br>
 
-`Arrays` `Strings` `Hashing` `Two Pointers`  
-`Sliding Window` `Binary Search` `Stack` `Queue`  
-`Linked List` `Trees` `Recursion` `Dynamic Programming`
+`Arrays` · `Strings` · `Hashing` · `Two Pointers`
 
-<br>
+`Sliding Window` · `Binary Search` · `Stack / Queue`
+
+`Linked List` · `Trees` · `Recursion` · `Dynamic Programming`
+
+<br><br>
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
+
+<img src="https://img.shields.io/badge/150%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+
 </a>
 
 </div>
 
 ---
 
-## Certifications & Training
+# 📚 Learning Right Now
 
-- **3-Month .NET Full Stack Development Training** — LTM
-- **Android Application Development** — Internshala
-- **Python Programming** — Great Learning
-- **3-Month Web Development Internship** — Yhills
+<table>
+<tr>
+
+<td align="center">
+
+⚡
+
+**Advanced Angular**
+
+Architecture  
+RxJS  
+Performance
+
+</td>
+
+<td align="center">
+
+⚙️
+
+**Advanced .NET**
+
+Web APIs  
+Architecture  
+Security
+
+</td>
+
+<td align="center">
+
+🏗️
+
+**System Design**
+
+Scalability  
+Architecture  
+Distributed Systems
+
+</td>
+
+<td align="center">
+
+🤖
+
+**AI / GenAI**
+
+LLMs  
+AI Applications  
+Integration
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Education
+# 🏆 Certifications & Training
 
-**Master of Computer Application (MCA)**  
-Pranveer Singh Institute of Technology — **June 2025**
+**.NET Full Stack Development — LTM**  
+3-Month Training Program
 
-**Bachelor of Computer Application (BCA)**  
-Rama University — **March 2022**
+**Android Application Development — Internshala**  
+Online Course
+
+**Python Programming — Great Learning**  
+Online Course
+
+**Web Development — Yhills**  
+3-Month Internship
 
 ---
 
-## Currently Exploring
+# 🎓 Education
+
+<table>
+<tr>
+
+<td width="50%">
+
+### Master of Computer Application
+
+**Pranveer Singh Institute of Technology**
+
+June 2025
+
+</td>
+
+<td width="50%">
+
+### Bachelor of Computer Application
+
+**Rama University**
+
+March 2022
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-`Advanced Angular` &nbsp; `Advanced .NET` &nbsp; `System Design`
+<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-404&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="48%">
 
-`AI / GenAI` &nbsp; `Cloud & Deployment` &nbsp; `DSA`
-
-</div>
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-404&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-404&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-404&theme=tokyonight&hide_border=true" width="48%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-404&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-404&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
@@ -295,23 +433,30 @@ Rama University — **March 2022**
 
 <div align="center">
 
-### Let's Build Something Great
+# Let's Build Something 🚀
+
+I'm interested in building useful products,
+learning new technologies and solving interesting problems.
+
+<br>
 
 <a href="mailto:gauravchandel2025@gmail.com">
-<img src="https://img.shields.io/badge/gauravchandel2025%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+
+<img src="https://img.shields.io/badge/gauravchandel2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
 </a>
 
 <br><br>
 
 <a href="https://github.com/Gaurav-404">GitHub</a>
-&nbsp; • &nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/">LinkedIn</a>
-&nbsp; • &nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://leetcode.com/">LeetCode</a>
 
 <br><br>
 
-`Team Player` • `Problem Solver` • `Detail Oriented` • `Proactive`
+`Team Player` · `Problem Solver` · `Detail Oriented` · `Proactive`
 
 </div>
 
