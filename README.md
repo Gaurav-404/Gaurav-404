@@ -1,75 +1,77 @@
 <div align="center">
 
-<img src="./profile.jpg" width="82" height="82" alt="Gaurav Chandel"/>
+<img src="./profile.jpg" width="100" height="100" style="border-radius:50%;" alt="Gaurav Chandel"/>
 
-# Gaurav Chandel
+# Gaurav **Chandel**
 
-### `Full Stack Developer`
+### Full Stack .NET & Angular Developer
 
-**Angular · .NET · C# · SQL Server**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:gauravchandel2025@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Gaurav-404">
-<img src="https://img.shields.io/badge/GitHub-Explore-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+Building modern web applications with clean code and a problem-solving mindset.
 
 <br/>
 
-<div align="center">
-
-> **I turn ideas into working software.**
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav-404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-chandel-b90602234/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravchandel2025@gmail.com)
 
 </div>
 
 ---
 
-## ✦ HELLO, I'M GAURAV
+<div align="center">
+
+`ABOUT` &nbsp;&nbsp; `PROJECTS` &nbsp;&nbsp; `SKILLS` &nbsp;&nbsp; `JOURNEY` &nbsp;&nbsp; `CONTACT`
+
+</div>
+
+---
 
 <table>
 <tr>
 
-<td width="70%" valign="top">
+<td width="58%" valign="top">
 
-I'm a **Full Stack Developer** who enjoys creating applications from the ground up.
+# 👨‍💻 About Me
 
-I work primarily with **Angular on the frontend** and **C# / ASP.NET Core on the backend**, with SQL Server handling the data layer.
+I'm a passionate **Full Stack Developer** who enjoys building full-stack web applications, solving real-world problems, and continuously learning new technologies.
 
-I'm interested in writing clean code, understanding how systems work, and continuously improving through projects and problem solving.
+I primarily work with **Angular, C#, ASP.NET Core and SQL Server**, and enjoy turning ideas into scalable and user-friendly applications.
 
-### What I care about
+### What I do
 
-`Clean Code` · `Good UX` · `Scalable APIs` · `Problem Solving`
+- Build full-stack web applications
+- Design and consume REST APIs
+- Develop Angular interfaces
+- Build backend services with ASP.NET Core
+- Work with SQL Server and Entity Framework Core
+- Practice Data Structures & Algorithms
+- Explore AI and Generative AI
 
 </td>
 
-<td width="30%" valign="top">
+<td width="42%" valign="top">
 
-### NOW
+# 🔭 Currently Exploring
 
-🟢 Building
+### 🤖 AI & Generative AI
 
-**Full Stack Apps**
+Exploring AI-powered applications and modern LLM technologies.
 
-### LEARNING
+### 🏗️ System Design
 
-🤖 AI / GenAI
+Learning application architecture, scalability and database design.
 
-🏗️ System Design
+### 🅰️ Advanced Angular
 
-### PRACTICING
+Improving Angular architecture, performance and RxJS.
 
-🧠 DSA with C#
+### ⚙️ Advanced .NET
+
+Deepening my knowledge of ASP.NET Core and backend architecture.
+
+### ☁️ Cloud
+
+Learning deployment, CI/CD and cloud fundamentals.
 
 </td>
 
@@ -78,234 +80,131 @@ I'm interested in writing clean code, understanding how systems work, and contin
 
 ---
 
-# ✦ MY TOOLBOX
+# 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
 
-### FRONTEND
+<td width="25%" align="center">
+
+## 🎨 Frontend
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap"/>
 
-<br/>
-
-`Angular` `TypeScript` `HTML` `CSS` `Bootstrap`
-
 <br/><br/>
 
-### BACKEND
+`Angular`
+
+`TypeScript`
+
+`HTML5`
+
+`CSS3`
+
+`Bootstrap`
+
+</td>
+
+<td width="25%" align="center">
+
+## ⚙️ Backend
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet"/>
 
+<br/><br/>
+
+`C#`
+
+`.NET`
+
+`ASP.NET Core`
+
+`Web API`
+
+`JWT`
+
+</td>
+
+<td width="25%" align="center">
+
+## 🗄️ Database
+
 <br/>
 
-`C#` `.NET` `ASP.NET Core` `Web API`
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 <br/><br/>
 
-### DATA & TOOLS
+`SQL Server`
+
+`Entity Framework Core`
+
+`LINQ`
+
+</td>
+
+<td width="25%" align="center">
+
+## 🔧 Tools
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
 
-<br/>
+<br/><br/>
 
-`SQL Server` `Entity Framework Core` `LINQ` `Git` `GitHub`
+`Git`
 
-</div>
+`GitHub`
+
+`Visual Studio`
+
+`VS Code`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ✦ SELECTED WORK
-
-<br/>
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
-
-### 01 / TRAVEL
 
 # ✈️ TravelGo
 
-**Full Stack Travel Platform**
+### Full Stack Travel Application
 
-A complete travel application built with Angular and ASP.NET Core.
+A full-stack travel application built with **Angular and ASP.NET Core**, designed to provide a smooth travel experience.
 
-<br/>
+### ✨ Features
 
-**FEATURES**
+- 🔐 User Authentication
+- 🔑 JWT Authorization
+- 🌍 Destination Management
+- 🎫 Booking Management
+- 👤 User Management
+- 🔗 REST API Integration
+- 📱 Responsive UI
 
-🔐 Authentication  
-🎫 Booking Management  
-🌍 Destinations  
-👤 User Management  
-🔑 JWT Authorization  
-🔗 REST APIs
-
-<br/>
-
-**TECHNOLOGY**
-
-`Angular` `TypeScript`  
-`C#` `ASP.NET Core`  
-`SQL Server` `JWT`
-
-<br/>
-
-<a href="https://github.com/Gaurav-404">
-<b>VIEW PROJECT →</b>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 02 / AGRICULTURE
-
-# 🌾 AgroLink
-
-**Agriculture Web Platform**
-
-A full-stack application focused on agricultural users, services and information.
-
-<br/>
-
-**FEATURES**
-
-👨‍🌾 User Management  
-🌱 Agriculture Services  
-🔐 Authentication  
-📊 Data Management  
-🔗 REST APIs
-
-<br/>
-
-**TECHNOLOGY**
-
-`Angular` `TypeScript`  
-`C#` `ASP.NET Core`  
-`SQL Server`
-
-<br/>
-
-<a href="https://github.com/Gaurav-404/AgroLink">
-<b>VIEW PROJECT →</b>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
-
-# ✦ HOW I BUILD
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-### 01
-
-**UNDERSTAND**
-
-Understand the problem  
-before writing code.
-
-</td>
-
-<td align="center">
-
-### 02
-
-**DESIGN**
-
-Think about the  
-simplest solution.
-
-</td>
-
-<td align="center">
-
-### 03
-
-**BUILD**
-
-Write clean and  
-maintainable code.
-
-</td>
-
-<td align="center">
-
-### 04
-
-**IMPROVE**
-
-Test, learn, refactor  
-and improve.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# ✦ PROBLEM SOLVING
-
-### C# · DSA · LeetCode
-
-I practice Data Structures & Algorithms to become a better problem solver and write more efficient solutions.
-
-<div align="center">
-
-`ARRAYS`
-
-`STRINGS`
-
-`HASHING`
-
-`TWO POINTERS`
-
-`SLIDING WINDOW`
-
-`BINARY SEARCH`
-
-`LINKED LIST`
-
-`TREES`
-
-`DYNAMIC PROGRAMMING`
-
-</div>
-
-<br/>
+### 🧩 Architecture
 
 ```text
-Problem
+Angular
    │
    ▼
-Understand
+ASP.NET Core Web API
    │
    ▼
-Approach
+Entity Framework Core
    │
    ▼
-Optimize
-   │
-   ▼
-Code
-   │
-   ▼
-Test
-   │
-   ▼
-Improve
+SQL Server
