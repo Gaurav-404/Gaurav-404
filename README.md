@@ -1,335 +1,195 @@
 <div align="center">
 
-<img src="./profile.jpg" width="85" height="85" alt="Gaurav Chandel"/>
+<img src="./profile.jpg" width="78" height="78" alt="Gaurav Chandel"/>
 
-# Gaurav Chandel
+# GAURAV CHANDEL
 
 ### Full Stack .NET & Angular Developer
 
-**Building real-world applications • Solving problems • Learning continuously**
+I build clean, practical and scalable web applications.
 
-<p>
-<a href="https://github.com/Gaurav-404">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
+
 <a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:gauravchandel2025@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-</p>
+&nbsp;
+<a href="https://github.com/Gaurav-404">
+  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   $ whoami                                               │
-│                                                          │
-│   Gaurav Chandel                                         │
-│   Full Stack .NET & Angular Developer                    │
-│                                                          │
-│   $ stack                                                 │
-│                                                          │
-│   Angular  •  TypeScript  •  C#  •  .NET                │
-│   ASP.NET Core  •  SQL Server  •  Entity Framework      │
-│                                                          │
-│   $ current_focus                                         │
-│                                                          │
-│   AI / GenAI  •  System Design  •  DSA                  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+**ANGULAR** &nbsp; • &nbsp; **.NET** &nbsp; • &nbsp; **C#** &nbsp; • &nbsp; **SQL SERVER** &nbsp; • &nbsp; **REST APIs**
+
 </div>
-👨‍💻 About Me
 
-I'm a Full Stack Developer passionate about building practical, scalable and user-friendly web applications.
+---
 
-I enjoy working on both frontend and backend development — from creating Angular interfaces to designing REST APIs and working with databases.
+## `about`
 
-Frontend        → Angular + TypeScript
-Backend         → C# + ASP.NET Core
-Database        → SQL Server
-ORM             → Entity Framework Core
-Authentication  → JWT
-Problem Solving → C# + DSA
-Currently
-🔭 Building full-stack web applications
-🌱 Learning AI & Generative AI
-🏗️ Exploring System Design
-🧩 Practicing Data Structures & Algorithms
-🚀 Improving my .NET and Angular skills
-⚡ Tech Stack
-<table> <tr> <td align="center" width="25%">
-Frontend
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### Who I am
+
+I'm a **Full Stack Developer** passionate about creating web applications that are simple to use and well structured internally.
+
+I enjoy working on both sides of the application — building interfaces with Angular and developing APIs and business logic with ASP.NET Core.
+
+I'm also strengthening my **DSA, System Design and AI/GenAI** skills.
+
+</td>
+
+<td width="40%" valign="top">
+
+### Quick Info
+
+**Role**  
+Full Stack Developer
+
+**Primary Stack**  
+Angular + .NET
+
+**Language**  
+C#
+
+**Database**  
+SQL Server
+
+**Currently Exploring**  
+AI / GenAI
+
+**Goal**  
+Build better software
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `skills`
+
+### Frontend
+
 <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap"/>
 
-<br/><br/>
+`Angular` `TypeScript` `HTML5` `CSS3` `Bootstrap`
 
-Angular
-TypeScript
-HTML5
-CSS3
-Bootstrap
+### Backend
 
-</td> <td align="center" width="25%">
-Backend
 <img src="https://skillicons.dev/icons?i=cs,dotnet"/>
 
-<br/><br/>
+`C#` `.NET` `ASP.NET Core` `Web API` `JWT`
 
-C#
-.NET
-ASP.NET Core
-Web API
-JWT
+### Database & Tools
 
-</td> <td align="center" width="25%">
-Database
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
 
-<br/><br/>
+`SQL Server` `Entity Framework Core` `LINQ` `Git` `GitHub`
 
-SQL Server
-Entity Framework Core
-LINQ
+---
 
-</td> <td align="center" width="25%">
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode"/>
+# `projects`
 
-<br/><br/>
+<table>
+<tr>
 
-Git
-GitHub
-Visual Studio
-VS Code
+<td width="50%" valign="top">
 
-</td> </tr> </table>
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-✈️ TravelGo
+## ✈️ TravelGo
 
-Full Stack Travel Application
+**Travel Management Platform**
 
 A full-stack travel application built using Angular and ASP.NET Core.
 
-Features
-🔐 User Authentication
-🔑 JWT Authorization
-🌍 Destination Management
-🎫 Booking Management
-👤 User Management
-🔗 REST API Integration
-📱 Responsive UI
-Architecture
-Angular
-   ↓
-ASP.NET Core Web API
-   ↓
-Entity Framework Core
-   ↓
-SQL Server
-Built With
+**Highlights**
 
-Angular TypeScript C#
-ASP.NET Core SQL Server JWT
+- Authentication & authorization
+- JWT based security
+- Destination management
+- Booking management
+- User management
+- REST API integration
+- Responsive frontend
 
-View My GitHub →
+**Stack**
 
-</td> <td width="50%" valign="top">
-🌾 AgroLink
+`Angular` `TypeScript`  
+`C#` `ASP.NET Core`  
+`SQL Server` `JWT`
 
-Agriculture Web Application
+<br/>
 
-A web application focused on connecting agricultural users with useful services and information.
+<a href="https://github.com/Gaurav-404">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge"/>
+</a>
 
-Features
-👨‍🌾 User Management
-🌱 Agriculture Services
-🔐 Authentication
-📊 Data Management
-🔗 REST API Integration
-📱 Responsive UI
-Architecture
-Angular
-   ↓
-ASP.NET Core Web API
-   ↓
-Entity Framework Core
-   ↓
-SQL Server
-Built With
+</td>
 
-Angular TypeScript C#
-ASP.NET Core SQL Server
+<td width="50%" valign="top">
 
-View AgroLink →
+## 🌾 AgroLink
 
-</td> </tr> </table>
-🧠 DSA & Problem Solving
+**Agriculture Management Platform**
 
-I practice Data Structures & Algorithms using C# to improve my problem-solving and logical thinking.
+A full-stack application focused on agricultural users and services.
 
-                    PROBLEM
-                       │
-                       ▼
-                Understand
-                       │
-                       ▼
-                Find Approach
-                       │
-                       ▼
-                 Optimize
-                       │
-                       ▼
-              Analyze Complexity
-                       │
-                       ▼
-                    CODE
-                       │
-                       ▼
-                    TEST
-Topics
+**Highlights**
 
-Arrays · Strings · Hashing · Two Pointers
+- User management
+- Authentication
+- Agriculture services
+- Data management
+- REST API integration
+- Responsive interface
 
-Sliding Window · Binary Search · Linked Lists
+**Stack**
 
-Trees · Dynamic Programming
+`Angular` `TypeScript`  
+`C#` `ASP.NET Core`  
+`SQL Server`
 
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-404&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-404&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<br/>
 
-<br/><br/>
+<a href="https://github.com/Gaurav-404/AgroLink">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-16A34A?style=for-the-badge"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Gaurav-404&theme=tokyonight&hide_border=true" width="70%"/> </div>
-🤖 Currently Learning
-<table> <tr> <td align="center" width="20%">
-AI
+</td>
 
-AI / GenAI
-LLMs
-AI APIs
+</tr>
+</table>
 
-</td> <td align="center" width="20%">
-🏗️
+---
 
-System Design
-Architecture
-Scalability
+# `problem solving`
 
-</td> <td align="center" width="20%">
-🅰️
+### DSA with C#
 
-Advanced Angular
-RxJS
-Performance
+I regularly solve programming problems to improve algorithmic thinking and write more efficient code.
 
-</td> <td align="center" width="20%">
-⚙️
-
-Advanced .NET
-Web API
-EF Core
-
-</td> <td align="center" width="20%">
-☁️
-
-Cloud
-Deployment
-CI/CD
-
-</td> </tr> </table>
-🗺️ Developer Journey
-HTML / CSS
-     │
-     ▼
-JavaScript / TypeScript
-     │
-     ▼
-Angular
-     │
-     ├──────────────────┐
-     │                  │
-     ▼                  ▼
-    C#              Frontend
-     │
-     ▼
-.NET / ASP.NET Core
-     │
-     ▼
-REST APIs
-     │
-     ▼
-SQL Server
-     │
-     ▼
-Entity Framework Core
-     │
-     ▼
-FULL STACK DEVELOPMENT
-     │
-     ├──────────────────┐
-     ▼                  ▼
- AI / GenAI       System Design
-🎯 2026 Mission
-████████████████████░░░░  80%
-Completed
- Build full-stack applications
- Learn Angular
- Learn ASP.NET Core
- Build REST APIs
- Work with SQL Server
-Next Targets
- Master DSA
- Learn System Design
- Build AI-powered applications
- Deploy production-ready applications
- Learn cloud technologies
- Contribute to Open Source
-💡 Developer Mindset
-Understand the Problem
-          ↓
-     Design Solution
-          ↓
-       Write Code
-          ↓
-        Test It
-          ↓
-      Improve It
-          ↓
-        Ship It
-
-Good code solves the problem.
-Great code makes the next problem easier.
-
-💼 What I'm Looking For
-
-I'm interested in opportunities where I can:
-
-🚀 Build real-world applications
-💻 Work with Angular and .NET
-🧠 Solve challenging engineering problems
-🤝 Learn from experienced developers
-📈 Grow as a software engineer
-🌎 Contribute to meaningful products
-📫 Let's Connect
-<div align="center">
-Open to interesting projects, collaborations and opportunities.
-<br/> <a href="https://www.linkedin.com/in/gaurav-chandel-b90602234/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:gauravchandel2025@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Gaurav-404"> <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-<div align="center">
-$ git status
-
-On branch main
-
-✓ Learning
-✓ Building
-✓ Solving
-✓ Improving
-
-Everything is up to date. 🚀
+```text
+Arrays              ████████████████████
+Strings             ██████████████████
+Hashing             █████████████████
+Two Pointers        █████████████████
+Sliding Window      ████████████████
+Binary Search       ███████████████
+Linked Lists        █████████████
+Trees               ███████████
+Dynamic Programming ████████
