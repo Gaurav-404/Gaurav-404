@@ -197,7 +197,7 @@ women's safety.
 
 <br>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Gaurav_Singh_Chandel/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
 </a>
 
